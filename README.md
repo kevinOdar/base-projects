@@ -1,4 +1,4 @@
-# Agenda de tareas
+# Título de proyecto
 
 ## Inicialización del proyecto
 1º Instalar las dependencias necesarias
